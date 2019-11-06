@@ -1,0 +1,10 @@
+_pycache_/
+resources/
+squadro_agents/
+
+minimax.py
+mystack.py
+myqueue.py
+squadro.py
+squadro_state.py
+state.py
